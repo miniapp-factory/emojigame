@@ -1,0 +1,68 @@
+
+# 2025-11-21 09:38:26.264110
++Code the following app
++```
++Create an emoji-based word guessing mini-game.
++The game should work like this:
++
++I provide emojis as a puzzle.
++
++The player must guess the correct phrase, word, idiom, movie, or expression represented by the emojis.
++
++After each emoji puzzle, show the correct answer and give a brief explanation.
++
++Examples:
++
++Emojis: 😈🗣️ → Answer: “Speak of the devil” (devil + speak = speak of the devil)
++
++Emojis: 🐱➡️🪤 → Answer: “Curiosity killed the cat”
++
++Emojis: 🌧️⏳ → Answer: “Rain check”
++
++Now generate multiple emoji puzzles (at least 10) with mixed difficulty.
++For each puzzle include:
++
++The emoji puzzle
++
++The correct answer
++
++A short explanation
++
++Make the puzzles fun, clever, and varied.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-21 09:38:26.264918
++Code the following app
++```
++Create an emoji-based word guessing mini-game.
++The game should work like this:
++
++I provide emojis as a puzzle.
++
++The player must guess the correct phrase, word, idiom, movie, or expression represented by the emojis.
++
++After each emoji puzzle, show the correct answer and give a brief explanation.
++
++Examples:
++
++Emojis: 😈🗣️ → Answer: “Speak of the devil” (devil + speak = speak of the devil)
++
++Emojis: 🐱➡️🪤 → Answer: “Curiosity killed the cat”
++
++Emojis: 🌧️⏳ → Answer: “Rain check”
++
++Now generate multiple emoji puzzles (at least 10) with mixed difficulty.
++For each puzzle include:
++
++The emoji puzzle
++
++The correct answer
++
++A short explanation
++
++Make the puzzles fun, clever, and varied.
++```
++
++Generate an app logo and update the app metadata title and description.
